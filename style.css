@@ -1,0 +1,93 @@
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+select{
+    height: 40px;
+    border-radius: 5px;
+    
+}
+
+.print-button-container{
+    width: 50%;
+}
+
+.hidden{
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-width: 300px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="button"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+input[type="text"]::placeholder {
+    color: #aaa;
+}
+
+input[type="text"]:hover,
+input[type="button"]:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+thead th {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+tbody td {
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+@media print {
+    .hidden {
+       display: none;
+    }
+ }

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Exam Schedule Lookup</title>
+
+        <script
+            src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+        <script src="script.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+
+    <body>
+        <h1>Exam Schedule Lookup</h1>
+        <div class="hidden">
+
+            
+
+            <form>
+                <label for="schedule-dropdown">Select a schedule:</label>
+                <select id="schedule-dropdown" name="schedule-dropdown">
+                    <option value="TEE2023-Winter.csv">TEE WINTER 2023</option>
+                    <option value="schedule1.csv">Schedule 1</option>
+                    <option value="schedule2.csv">Schedule 2</option>
+                    <option value="schedule3.csv">Schedule 3</option>
+                    <!-- Add more options as needed -->
+                </select>
+
+
+                <label for="class-codes">Enter class codes</label><br>
+                <input type="text" id="class-codes" name="class-codes" placeholder="Class Code"><br>
+                <div >
+                <input type="button" value="Add Course"
+                    onclick="addCourseField()">
+                <input type="button" value="Get Schedule"
+                    onclick="lookupSchedule()"><br>
+                </div>
+
+                    <input type="button" id="print-button"
+                        onclick="window.print()" value="Print TimeTable">
+                
+            </form>
+        </div>
+        <div id="timetable">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Sr. No</th>
+                        <th>Date/Time &amp; Session</th>
+                        <th>Class No.</th>
+                        <th>Course Code</th>
+                        <th>Course Title</th>
+                        <th>Slot</th>
+                        <th>Faculty Name</th>
+                    </tr>
+                </thead>
+                <!-- Include the table and print button elements -->
+                <tbody id="schedule-table-body">
+                    <!-- table contents -->
+                </tbody>
+            </table>
+
+        </div>
+
+    </body>
+
+</html>
