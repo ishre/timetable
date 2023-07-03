@@ -1,0 +1,370 @@
+Sr. No,Date/Time,Class No,Course Code,Course Title,Slot,Faculty Name
+1,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000003,MAT2004,Operations Research,A11+A12+A13,"Dr.Ajay Kumar
+Bhurjee"
+2,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000004,MAT3003,"Probability, Statistics And
+Reliability",A11+A12+A13+A14,Dr. Udai Kumar
+3,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000005,MAT3003,"Probability, Statistics And
+Reliability",A11+A12+A13+A14,Dr.Mayank Sharma
+4,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000017,MAT2003,Applied Numerical methods,A11+A12+A13,Ms. Sana Afreen
+5,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000018,MAT2003,Applied Numerical methods,A11+A12+A13,Ms. Shivangi Dangi
+6,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000041,ASE1003,"THERMAL AND HEAT
+TRANSFER FOR AEROSPACE
+ENGINEERING",A11+A12+A13+A14,Dr. Ankush
+7,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000045,ASE2006,Aerospace Propulsion,A11+A12+A13+A14,Dr.Prashant G K
+8,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000126,CSE2004,"Theory Of Computation And
+Compiler Design",A11+A12+A13+A14,"Dr Abhishek Kumar
+Shukla"
+9,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000143,CSE3010,Computer Vision,A11+A12+A13,Dr.A.V.R Mayuri
+10,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000144,CSE2004,"Theory Of Computation And
+Compiler Design",A11+A12+A13+A14,Dr. Gaurav Soni
+11,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000148,CSE2004,"Theory Of Computation And
+Compiler Design",A11+A12+A13+A14,"Dr. Ashish Mohan
+Yadav"
+12,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000154,CSE2003,"Computer Architecture and
+Organization",A11+A12+A13+A14,Dr.Trapti Sharma
+13,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000162,CSE3010,Computer Vision,A11+A12+A13,Dr Ajay Sharma
+14,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000163,CSE2004,"Theory Of Computation And
+Compiler Design",A11+A12+A13+A14,Dr Vijay Kumar Trivedi
+15,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000171,CSE3010,Computer Vision,A11+A12+A13,"Dr Rajneesh Kumar
+Patel"
+16,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000178,CSE3010,Computer Vision,A11+A12+A13,Dr Sanat Jain
+17,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000180,CSE4001,"Internet and Web
+Programming",A11+A12+A13+A14,"Dr. Nitin Kumar
+Mishra"
+18,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000202,CCA3001,Cloud Data and Management,A11+A12+A13+A14,Dr. Anju Shukla
+19,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000219,CSE3006,Computer Networks,A11+A12+A13+A14,Dr Abha Sharma
+20,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000224,CSE3006,Computer Networks,A11+A12+A13+A14,Mr. Vikas K Jain
+21,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000225,CDS4003,Data engineering,A11+A12+A13,Dr Ram Kumar
+22,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000232,CSG2003,Human Computer Interaction,A11+A12+A13,Dr. Anil Kumar Yadav
+23,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000233,CSE3002,Programming in Java,A11+A12+A13+A14,Mr. Nilesh Kunhare
+24,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000234,CSA4002,Artificial Neural Networks,A11+A12+A13+A14,Dr Nikhil Pateria
+25,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000240,CSE2004,"Theory Of Computation And
+Compiler Design",A11+A12+A13+A14,Dr. Preetam Suman
+26,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000260,CSE3006,Computer Networks,A11+A12+A13+A14,Dr.S.Periyanayagi
+27,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000286,ECE2101,Analog Circuits,A11+A12+A13+A14,Dr Karthick S
+28,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000324,CSE3005,Software Engineering,A11+A12+A13+A14,Dr Monica
+29,Session:  10.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000834,HUM2003,"Foundations of Privacy and
+Security",A11+ A12+ A13,Dr.Saravanan
+30,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000058,PLA1004,Competitive Coding Practices,A21+A22+A23,ETHNUS TARINER 1
+31,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000059,PLA1004,Competitive Coding Practices,A21+A22+A23,ETHNUS TRAINER 2
+32,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000060,PLA1004,Competitive Coding Practices,A21+A22+A23,ETHNUS TRAINER 3
+33,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000061,PLA1004,Competitive Coding Practices,A21+A22+A23,ETHNUS TRAINER 4
+34,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000062,PLA1004,Competitive Coding Practices,A21+A22+A23,ETHNUS TRAINER 5
+35,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000063,PLA1004,Competitive Coding Practices,A21+A22+A23,FACE TRAINER 1
+36,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000064,PLA1004,Competitive Coding Practices,A21+A22+A23,FACE TRAINER 2
+37,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000065,PLA1004,Competitive Coding Practices,A21+A22+A23,FACE TRAINER 3
+38,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000066,PLA1004,Competitive Coding Practices,A21+A22+A23,FACE TRAINER 4
+39,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000067,PLA1004,Competitive Coding Practices,A21+A22+A23,FACE TRAINER 5
+40,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000068,PLA1004,Competitive Coding Practices,A21+A22+A23,FACE TRAINER 6
+41,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000147,CSE3010,Computer Vision,A21+A22+A23,Dr.A.V.R Mayuri
+42,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000155,CSE3010,Computer Vision,A21+A22+A23,Ms. Jyoti Chauhan
+43,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000167,CSE3010,Computer Vision,A21+A22+A23,Dr Ajay Sharma
+44,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000168,CSE2004,"Theory Of Computation And
+Compiler Design",A21+A22+A23+A24,Dr. Ramesh Saha
+45,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000182,CSE3010,Computer Vision,A21+A22+A23,Dr Sanat Jain
+46,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000194,CSE4001,"Internet and Web
+Programming",A21+A22+A23+A24,Dr Vinesh Kumar
+47,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000201,CSE4001,"Internet and Web
+Programming",A21+A22+A23+A24,Dr.Kannan S
+48,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000229,CSA4019,"Machine Learning with Big
+Data",A21+A22+A23,Mr. Rajit Nair
+49,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000263,CSD3010,Cyber Physical Systems,A21+A22+A23,"Dr.Subhash Chandra
+Patel"
+50,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000264,CSD3010,Cyber Physical Systems,A21+A22+A23,Dr Ankur Jain
+51,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000266,CSA4002,Artificial Neural Networks,A21+A22+A23+A24,Dr.Shweta Saxena
+52,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000276,CSE2006,Programming in Java,A21+A22+A23,Dr.Komarasamy G
+53,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000312,EAC3017,"Fundamentals of Sensors And
+IoT",A21+A22+A23,Mr.P. Narendra Babu
+54,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000313,EAC3017,"Fundamentals of Sensors And
+IoT",A21+A22+A23,Dr. J P Shritharanyaa
+55,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000314,EAC3017,"Fundamentals of Sensors And
+IoT",A21+A22+A23,Dr Pr.Buvaneswari
+56,Session:  10.07.2023/ Monday Time: 2.00 PM to 3.30 PM,BL2023241000322,CSE2006,Programming in Java,A21+A22+A23,Dr Ram Kumar
+57,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000006,MAT3003,"Probability, Statistics And
+Reliability",B11+B12+B13+B14,Mr. Ajay
+58,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000007,MAT2003,Applied Numerical methods,B11+B12+B13,Dr.Mamta Agrawal
+59,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000009,MAT2003,Applied Numerical methods,B11+B12+B13,"Dr. Prashant Kumar
+Pandey"
+60,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000020,MAT2001,"Differential And Difference
+Equations",B11+B12+B13,Dr.Manickam . A
+61,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000021,MAT2001,"Differential And Difference
+Equations",B11+B12+B13,Ms.Sheerin Kayenat
+62,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000024,MAT2001,"Differential And Difference
+Equations",B11+B12+B13,"Dr. Rahul Kumar
+Chaturvedi"
+63,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000031,MAT2001,"Differential And Difference
+Equations",B11+B12+B13,Dr. Swati Chauhan
+64,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000037,BIO2004,Principles of Epidemiology,B11+B12+B13,Dr. Suparna Patowary
+65,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000050,MEE3004,HEAT TRANSFER,B11+B12+B13+B14,Dr.Rohit Sharma
+66,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000146,CSE3010,Computer Vision,B11+B12+B13,Dr.A.V.R Mayuri
+67,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000150,CSE3010,Computer Vision,B11+B12+B13,Ms. Jyoti Chauhan
+68,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000164,CSE3010,Computer Vision,B11+B12+B13,Dr Ajay Sharma
+69,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000173,CSE3010,Computer Vision,B11+B12+B13,"Dr Rajneesh Kumar
+Patel"
+70,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000179,CSE3010,Computer Vision,B11+B12+B13,Dr Sanat Jain
+71,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000204,CSD4002,Ethical Hacking,B11+B12+B13+B14,"Dr. Ganesan
+Ramasamy"
+72,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000206,NAS2001,Advanced Data Analytics,B11+B12+B13+B14,Dr.J. Manikandan
+73,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000207,NAS1001,"NASSCOM Future Skills -
+Associative Data Analyst",B11+B12+B13+B14,Dr.D. Lakshmi
+74,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000213,NAS1002,"NASSCOM Future Skills -
+Security Analyst -I",B11+B12+B13+B14,Dr.H Azath
+75,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000214,CSA4002,Artificial Neural Networks,B11+B12+B13+B14,Dr.Shweta Saxena
+76,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000215,CSA4002,Artificial Neural Networks,B11+B12+B13+B14,"Dr Vishnuvarthanan
+Govindaraj"
+77,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000217,CHI3019,"Introduction to cyber-
+physical systems",B11+B12+B13,Dr Ankur Jain
+78,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000228,CSA4019,"Machine Learning with Big
+Data",B11+B12+B13,Mr. Rajit Nair
+79,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000259,CSE3006,Computer Networks,B11+B12+B13+B14,Dr Garima Jain
+80,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000267,CSD3010,Cyber Physical Systems,B11+B12+B13,"Dr.Subhash Chandra
+Patel"
+81,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000288,EAC3001,"PRINCIPLES OF
+COMMUNICATION SYSTEMS",B11+B12+B13+B14,Dr.Debashis Adhikari
+82,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000320,CSE3005,Software Engineering,B11+B12+B13+B14,Dr.Vikas Panthi
+83,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000323,CSE2006,Programming in Java,B11+B12+B13,Dr Ram Kumar
+84,Session:  11.07.2023/ Tuesday Time: 9.15 AM to 10.45 AM,BL2023241000333,CSE3006,Computer Networks,B11+B12+B13+B14,Dr. Nilesh Kunhare
+85,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000008,MAT2003,Applied Numerical methods,B21+B22+B23,Dr.Benevatho Jaison A
+86,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000010,MAT2003,Applied Numerical methods,B21+B22+B23,"Dr. Prashant Kumar
+Pandey"
+87,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000012,MAT2003,Applied Numerical methods,B21+B22+B23,Dr Suchismita Patra
+88,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000023,MAT2001,"Differential And Difference
+Equations",B21+B22+B23,"Dr Ujjwal Kumar
+Mishra"
+89,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000028,MAT2001,"Differential And Difference
+Equations",B21+B22+B23,Dr D Harish Babu
+90,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000032,MAT2001,"Differential And Difference
+Equations",B21+B22+B23,Dr. Swati Chauhan
+91,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000069,PLA1004,Competitive Coding Practices,B21+B22+B23,ETHNUS TRAINER 2
+92,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000070,PLA1004,Competitive Coding Practices,B21+B22+B23,ETHNUS TRAINER 3
+93,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000071,PLA1004,Competitive Coding Practices,B21+B22+B23,ETHNUS TRAINER 4
+94,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000072,PLA1004,Competitive Coding Practices,B21+B22+B23,ETHNUS TRAINER 5
+95,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000073,PLA1004,Competitive Coding Practices,B21+B22+B23,ETHNUS TRAINER 6
+96,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000074,PLA1004,Competitive Coding Practices,B21+B22+B23,ETHNUS TRAINER 7
+97,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000075,PLA1004,Competitive Coding Practices,B21+B22+B23,FACE TRAINER 1
+98,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000076,PLA1004,Competitive Coding Practices,B21+B22+B23,FACE TRAINER 2
+99,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000077,PLA1004,Competitive Coding Practices,B21+B22+B23,FACE TRAINER 3
+100,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000078,PLA1004,Competitive Coding Practices,B21+B22+B23,FACE TRAINER 4
+101,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000079,PLA1004,Competitive Coding Practices,B21+B22+B23,FACE TRAINER 6
+102,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000080,PLA1004,Competitive Coding Practices,B21+B22+B23,FACE TRAINER 5
+103,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000130,CSE2004,"Theory Of Computation And
+Compiler Design",B21+B22+B23+B24,Dr Azra Nazir
+104,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000153,CSE3010,Computer Vision,B21+B22+B23,Ms. Jyoti Chauhan
+105,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000197,CSE4001,"Internet and Web
+Programming",B21+B22+B23+B24,Dr Vinesh Kumar
+106,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000220,CSE3006,Computer Networks,B21+B22+B23+B24,Dr. Ramesh Saha
+107,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000239,CSE4001,"Internet and Web
+Programming",B21+B22+B23+B24,Dr.Kannan S
+108,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000271,CSD4012,Web Security,B21+B22+B23,Dr Ajay Kumar Phulre
+109,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000277,CSE2006,Programming in Java,B21+B22+B23,Dr.Komarasamy G
+110,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000315,EAC3017,"Fundamentals of Sensors And
+IoT",B21+B22+B23,Mr.P. Narendra Babu
+111,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000316,EAC3017,"Fundamentals of Sensors And
+IoT",B21+B22+B23,Dr. J P Shritharanyaa
+112,Session:  11.07.2023/ Tuesday Time: 2.00 PM to 3.30 PM,BL2023241000319,EAC4012,Body Area Networks,B21+B22+B23,Dr.Nella Anveshkumar
+113,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000019,MAT2003,Applied Numerical methods,C11+C12+C13,Mr. Shahid Abdullah
+114,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000027,MAT2001,"Differential And Difference
+Equations",C11+C12+C13,Dr D Harish Babu
+115,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000034,MAT2001,"Differential And Difference
+Equations",C11+C12+C13,Mr Abrar Yaqoob
+116,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000036,BIO3017,"Advanced Biomaterials and
+Manufacturing Process",C11+C12+C13,Dr.Siddhartha Maiti
+117,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000042,ASE1003,"THERMAL AND HEAT
+TRANSFER FOR AEROSPACE
+ENGINEERING",C11+C12+C13+C14,Dr. Ankush
+118,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000046,ASE2006,Aerospace Propulsion,C11+C12+C13+C14,Dr.Prashant G K
+119,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000051,MEE3005,DYNAMICS OF MACHINES,C11+C12+C13+C14,Dr.Balaguru S
+120,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000127,CSE2004,"Theory Of Computation And
+Compiler Design",C11+C12+C13+C14,"Dr Abhishek Kumar
+Shukla"
+121,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000129,CSE2004,"Theory Of Computation And
+Compiler Design",C11+C12+C13+C14,Dr Azra Nazir
+122,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000145,CSE2004,"Theory Of Computation And
+Compiler Design",C11+C12+C13+C14,Dr. Gaurav Soni
+123,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000149,CSE2004,"Theory Of Computation And
+Compiler Design",C11+C12+C13+C14,"Dr. Ashish Mohan
+Yadav"
+124,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000181,CSE4001,"Internet and Web
+Programming",C11+C12+C13+C14,"Dr. Nitin Kumar
+Mishra"
+125,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000241,CSE4001,"Internet and Web
+Programming",C11+C12+C13+C14,Dr Harshlata
+126,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000242,CSE3003,Operating System,C11+C12+C13+C14,Dr.Balaji A
+127,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000243,CSE3003,Operating System,C11+C12+C13+C14,Dr Hemalakshmi G R
+128,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000244,CSA4002,Artificial Neural Networks,C11+C12+C13+C14,Mr. Manoj Kumar
+129,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000245,CSE3006,Computer Networks,C11+C12+C13+C14,Mr. Vikas K Jain
+130,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000249,CCA3001,Cloud Data and Management,C11+C12+C13+C14,Dr. Anju Shukla
+131,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000250,CSD4003,Network and System Security,C11+C12+C13,Dr Narottam Das Patel
+132,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000251,CDS3005,Foundations of Data Science,C11+C12+C13,"Ms
+Manoramachouhan"
+133,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000268,CSE3006,Computer Networks,C11+C12+C13+C14,Dr Garima Jain
+134,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000275,CSE3006,Computer Networks,C11+C12+C13+C14,Dr Nikhil Pateria
+135,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000287,EAC2005,Robotics and Mechatronics,C11+C12+C13+C14,"Mr.Soumitra Keshari
+Nayak"
+136,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000318,EAC4012,Body Area Networks,C11+C12+C13,Dr.Nella Anveshkumar
+137,Session:  12.07.2023/ Wednesday Time: 9.15 AM to 10.45 AM,BL2023241000321,CSE3005,Software Engineering,C11+C12+C13+C14,Dr.Vikas Panthi
+138,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000015,MAT2003,Applied Numerical methods,F11+F12+F13,Dr Dileep Kumar
+139,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000054,MEE3014,"ROBOTICS AND
+AUTOMATION",F11+F12+F13,"Dr Abhishek
+Shrivastava"
+140,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000120,BIO3004,"Computational Biology and
+Analytics",F11+F12+F13+F14,"Dr Chandrabhan
+Seniya"
+141,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000139,CSE2004,"Theory Of Computation And
+Compiler Design",F11+F12+F13+F14,"Dr. Kamlesh
+Chandravanshi"
+142,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000142,CSE2004,"Theory Of Computation And
+Compiler Design",F11+F12+F13+F14,"Mr. Shiv Shankar
+Prasad Shukla"
+143,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000151,CSE2003,"Computer Architecture and
+Organization",F11+F12+F13+F14,Dr.Abha Trivedi
+144,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000174,CSE2004,"Theory Of Computation And
+Compiler Design",F11+F12+F13+F14,Dr Bhupendra Panchal
+145,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000189,CSE3010,Computer Vision,F11+F12+F13,Dr Jayanthi
+146,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000223,CDS3001,Distributed Systems,F11+F12+F13,Mr. G. Ganesan
+147,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000256,CCA2016,"Introduction to Cloud
+Services",F11+F12+F13,Dr Koushik.C.P
+148,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000261,CSE3006,Computer Networks,F11+F12+F13+F14,Dr Sajjad Ahmed
+149,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000262,CHI2001,IOT in Healthcare,F11+F12+F13,Dr Pratosh Kumar Pal
+150,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000265,CSA4002,Artificial Neural Networks,F11+F12+F13+F14,Ms Geeta Singh
+151,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000274,CSE3006,Computer Networks,F11+F12+F13+F14,"Dr Shahana Gajala
+Qureshi"
+152,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000279,CSE2006,Programming in Java,F11+F12+F13,Dr Suneet
+153,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000283,ASE4005,Aeroelasticity,F11+F12+F13,Dr Supen Kumar Sah
+154,Session:  12.07.2023/ Wednesday Time: 2.00 PM to 3.30 PM,BL2023241000310,ECE4001,Linear Integrated Circuits,F11+F12+F14,Dr Karthick S
+155,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000002,MAT2002,"Discrete Mathematics And
+Graph Theory",D11+D12+D13+D14,"Dr. Nilam
+Venkatakoteswararao"
+156,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000013,MAT2003,Applied Numerical methods,D11+D12+D13,Dr. Vijay Kumar Patel
+157,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000029,MAT2001,"Differential And Difference
+Equations",D11+D12+D13,Dr. Priyanka Mishra
+158,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000049,MEE3002,"DESIGN OF MACHINE
+ELEMENTS",D11+D12+D13+D14,Dr K Sripriyan
+159,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000121,BIO2018,"Health Care Project
+Management",D11+D12+D13,"Dr Chandrabhan
+Seniya"
+160,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000137,CSE2004,"Theory Of Computation And
+Compiler Design",D11+D12+D13+D14,"Dr. Kamlesh
+Chandravanshi"
+161,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000141,CSE2004,"Theory Of Computation And
+Compiler Design",D11+D12+D13+D14,"Mr. Shiv Shankar
+Prasad Shukla"
+162,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000152,CSE2003,"Computer Architecture and
+Organization",D11+D12+D13+D14,"Dr. S.
+Ananthakumaran"
+163,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000156,CSE2003,"Computer Architecture and
+Organization",D11+D12+D13+D14,Dr Pratosh Kumar Pal
+164,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000172,CSE2004,"Theory Of Computation And
+Compiler Design",D11+D12+D13+D14,Dr Bhupendra Panchal
+165,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000218,CSD4007,Cloud Security,D11+D12+D13,Mr. G. Ganesan
+166,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000222,CSE3006,Computer Networks,D11+D12+D13+D14,Dr. Adarsh Patel
+167,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000226,CSE3006,Computer Networks,D11+D12+D13+D14,Dr. Ravi Verma
+168,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000272,CSE3006,Computer Networks,D11+D12+D13+D14,Mr. Sandeep Sahu
+169,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000273,CSA4008,APPLIED MACHINE LEARNING,D11+D12+D13+D14,Ms Geeta Singh
+170,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000325,ASE4005,Aeroelasticity,D11+D12+D13,Dr Supen Kumar Sah
+171,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000326,CSE2006,Programming in Java,D11+D12+D13,Dr Javed Khan Sheikh
+172,Session:  13.07.2023/ Thursday Time: 9.15 AM to 10.45 AM,BL2023241000336,CSE3010,Computer Vision,D11+D12+D13,"Dr Rajneesh Kumar
+Patel"
+173,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000001,MAT3017,"Statistical Inferences and
+Series of Function",D21+D22+D23,"Dr. Nilam
+Venkatakoteswararao"
+174,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000014,MAT2003,Applied Numerical methods,D21+D22+D23,Dr. Vijay Kumar Patel
+175,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000030,MAT2001,"Differential And Difference
+Equations",D21+D22+D23,Dr. Priyanka Mishra
+176,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000131,CSE3010,Computer Vision,D21+D22+D23,Dr.Ashok Patel
+177,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000134,CSE3010,Computer Vision,D21+D22+D23,Dr Rudrakalyan
+178,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000135,CSE2004,"Theory Of Computation And
+Compiler Design",D21+D22+D23+D24,Dr. A. Sirajudeen
+179,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000140,CSE3010,Computer Vision,D21+D22+D23,"Dr. Santosh Kumar
+Tripathy"
+180,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000160,CSE3010,Computer Vision,D21+D22+D23,Dr Shilpa Suman
+181,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000161,CSE2004,"Theory Of Computation And
+Compiler Design",D21+D22+D23+D24,Dr Nagarajan I
+182,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000170,CSE2004,"Theory Of Computation And
+Compiler Design",D21+D22+D23+D24,"Dr I Jasmine
+Selvakumari Jeya"
+183,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000177,CSE4001,"Internet and Web
+Programming",D21+D22+D23+D24,"Dr. Prabu Kanna
+Govindarajan"
+184,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000186,CSE4001,"Internet and Web
+Programming",D21+D22+D23+D24,Ms Nancy Kumari
+185,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000231,CSA4019,"Machine Learning with Big
+Data",D21+D22+D23,Dr Javed Khan Sheikh
+186,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000257,CSA4019,"Machine Learning with Big
+Data",D21+D22+D23,Dr Pranshu Pranjal
+187,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000258,CSA4019,"Machine Learning with Big
+Data",D21+D22+D23,Dr SHAFIUL ALOM
+188,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000311,EAC3017,"Fundamentals of Sensors And
+IoT",D21+D22+D23,"Dr. Arindam
+Sadhukhan"
+189,Session:  13.07.2023/ Thursday Time: 2.00 PM to 3.30 PM,BL2023241000335,PLA1004,Competitive Coding Practices,D21+D22+D23,FACE TRAINER 3
+190,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000016,MAT2003,Applied Numerical methods,E11+E12+E13,Dr Dileep Kumar
+191,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000025,MAT2001,"Differential And Difference
+Equations",E11+E12+E13,Dr Anil Kumar Shukla
+192,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000052,MEE3019,"Additive Manufacturing
+Technologies",E11+E12+E13,Dr Karthik Rao M C
+193,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000123,CSE3010,Computer Vision,E11+E12+E13,Dr.Ashok Patel
+194,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000132,CSE3010,Computer Vision,E11+E12+E13,Dr Rudrakalyan
+195,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000136,CSE3010,Computer Vision,E11+E12+E13,"Dr. Santosh Kumar
+Tripathy"
+196,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000157,CSE3010,Computer Vision,E11+E12+E13,Dr Shilpa Suman
+197,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000166,CSE2004,"Theory Of Computation And
+Compiler Design",E11+E12+E13+E14,"Dr.Chandan Kumar
+Bahera"
+198,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000176,CSE4001,"Internet and Web
+Programming",E11+E12+E13+E14,"Dr. Prabu Kanna
+Govindarajan"
+199,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000184,CSE3010,Computer Vision,E11+E12+E13,Dr Jayanthi
+200,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000216,CSE3006,Computer Networks,E11+E12+E13+E14,"Dr Shahana Gajala
+Qureshi"
+201,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000221,CDS4001,High performance Computing,E11+E12+E13,Dr. Adarsh Patel
+202,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000227,CSE3006,Computer Networks,E11+E12+E13+E14,Dr. Ravi Verma
+203,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000230,CSA4019,"Machine Learning with Big
+Data",E11+E12+E13,Dr Javed Khan Sheikh
+204,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000246,CSE3006,Computer Networks,E11+E12+E13+E14,Mr. Sandeep Sahu
+205,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000269,CHI3001,"App Development for
+Healthcare Informatics",E11+E12+E13,Dr. A. Sirajudeen
+206,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000278,CSE2006,Programming in Java,E11+E12+E13,Dr Suneet
+207,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000289,CSE4005,Machine Learning,E11+E12+E13,"Dr. Arindam
+Sadhukhan"
+208,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000290,BIY3003,"Biodiversity and Conservation
+Biology",E11+E12+E13,Dr Arun Kumar
+209,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000334,CSE2004,"Theory Of Computation And
+Compiler Design",E11+E12+E13+E14,"Dr I Jasmine
+Selvakumari Jeya"
+210,Session:  14.07.2023/ Friday Time: 9.15 AM to 10.45 AM,BL2023241000832,MAT3002,Applied Linear Algebra,E11+E12+E14,Dr. Swati Chauhan
+211,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000081,PLA1004,Competitive Coding Practices,E21+E22+E23,ETHNUS TARINER 1
+212,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000082,PLA1004,Competitive Coding Practices,E21+E22+E23,ETHNUS TRAINER 2
+213,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000083,PLA1004,Competitive Coding Practices,E21+E22+E23,ETHNUS TRAINER 3
+214,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000084,PLA1004,Competitive Coding Practices,E21+E22+E23,ETHNUS TRAINER 4
+215,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000085,PLA1004,Competitive Coding Practices,E21+E22+E23,ETHNUS TRAINER 5
+216,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000086,PLA1004,Competitive Coding Practices,E21+E22+E23,FACE TRAINER 1
+217,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000087,PLA1004,Competitive Coding Practices,E21+E22+E23,FACE TRAINER 2
+218,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000088,PLA1004,Competitive Coding Practices,E21+E22+E23,FACE TRAINER 3
+219,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000089,PLA1004,Competitive Coding Practices,E21+E22+E23,FACE TRAINER 4
+220,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000090,PLA1004,Competitive Coding Practices,E21+E22+E23,FACE TRAINER 5
+221,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000091,PLA1004,Competitive Coding Practices,E21+E22+E23,FACE TRAINER 6
+222,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000128,CSE3010,Computer Vision,E21+E22+E23,Dr.Ashok Patel
+223,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000133,CSE3010,Computer Vision,E21+E22+E23,Dr Rudrakalyan
+224,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000138,CSE3010,Computer Vision,E21+E22+E23,"Dr. Santosh Kumar
+Tripathy"
+225,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000158,CSE3010,Computer Vision,E21+E22+E23,Dr Shilpa Suman
+226,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000159,CSE2004,"Theory Of Computation And
+Compiler Design",E21+E22+E23+F22,Dr Nagarajan I
+227,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000183,CSE4001,"Internet and Web
+Programming",E21+E22+E23+F22,Ms Nancy Kumari
+228,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000191,CSE3010,Computer Vision,E21+E22+E23,Dr Jayanthi
+229,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000252,CSA4019,"Machine Learning with Big
+Data",E21+E22+E23,Dr Pranshu Pranjal
+230,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000253,CSA4019,"Machine Learning with Big
+Data",E21+E22+E23,Dr Sukumar.R
+231,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000254,CSE3006,Computer Networks,E21+E22+E23+F22,Dr Sajjad Ahmed
+232,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000255,CCA2016,"Introduction to Cloud
+Services",E21+E22+E23,Dr Koushik.C.P
+233,Session:  14.07.2023/ Friday Time: 2.00 PM to 3.30 PM,BL2023241000327,CSE2006,Programming in Java,E21+E22+E23,Dr Suneet
+234,Session:  15.07.2023/ Saturday Time: 9.15 AM to 10.45 AM,BL2023241000053,PLA1006,Lateral Thinking,A11+A12,ETHNUS TARINER 1
+235,Session:  15.07.2023/ Saturday Time: 9.15 AM to 10.45 AM,BL2023241000055,PLA1006,Lateral Thinking,E11+E12,ETHNUS TARINER 1
+236,Session:  15.07.2023/ Saturday Time: 9.15 AM to 10.45 AM,BL2023241000056,PLA1006,Lateral Thinking,B21+B22,ETHNUS TARINER 1
+237,Session:  15.07.2023/ Saturday Time: 9.15 AM to 10.45 AM,BL2023241000057,PLA1006,Lateral Thinking,F21+F22,ETHNUS TARINER 1
+238,Session:  17.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000284,CSE0002,OPEN SOURCE SOFTWARE,F21+F22,Mr.Hariharan R
+239,Session:  17.07.2023/ Monday Time: 9.15 AM to 10.45 AM,BL2023241000330,CSE0002,OPEN SOURCE SOFTWARE,A24+B24,Mr.Hariharan R
